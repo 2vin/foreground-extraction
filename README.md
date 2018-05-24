@@ -1,5 +1,5 @@
-# foreground-extraction
-Extracting foreground from portrait images based on face localization    
+# person-extraction
+Extracting person from portrait images based on face localization    
 
 This code is does not produce very good results on complex backgrounds, but it contains useful code for super-pixelization, kmeans segmentation, face detection & grabcut segmentation.    
 
@@ -18,19 +18,19 @@ Run the following command in terminal:
 # Results
 
 Test image    
-![alt text](https://raw.githubusercontent.com/2vin/foreground-extraction/master/results/test.jpeg)
+![alt text](https://raw.githubusercontent.com/2vin/person-extraction/master/results/test.jpeg)
 
 After superpixelization 
-![alt text](https://raw.githubusercontent.com/2vin/foreground-extraction/master/results/pixels.jpg)
+![alt text](https://raw.githubusercontent.com/2vin/person-extraction/master/results/pixels.jpg)
 
 After kmeans segmentation
-![alt text](https://raw.githubusercontent.com/2vin/foreground-extraction/master/results/segmentation.jpg)
+![alt text](https://raw.githubusercontent.com/2vin/person-extraction/master/results/segmentation.jpg)
 
 Extracted face mask
-![alt text](https://raw.githubusercontent.com/2vin/foreground-extraction/master/results/facemask.jpg)
+![alt text](https://raw.githubusercontent.com/2vin/person-extraction/master/results/facemask.jpg)
 
 Extracted torso mask
-![alt text](https://raw.githubusercontent.com/2vin/foreground-extraction/master/results/bodymask.jpg)
+![alt text](https://raw.githubusercontent.com/2vin/person-extraction/master/results/bodymask.jpg)
 
 Combined mask 
-![alt text](https://raw.githubusercontent.com/2vin/foreground-extraction/master/results/person.jpg)
+![alt text](https://raw.githubusercontent.com/2vin/person-extraction/master/results/person.jpg)
