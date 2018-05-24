@@ -18,4 +18,19 @@ Run the following command in terminal:
 # Results
 
 Test image    
-![alt text](https://github.com/2vin/color-quantize/blob/master/data/test.jpg)
+![alt text](https://raw.githubusercontent.com/2vin/foreground-extraction/master/results/test.jpeg)
+
+After superpixelization 
+![alt text](https://raw.githubusercontent.com/2vin/foreground-extraction/master/results/pixels.jpg)
+
+After kmeans segmentation
+![alt text](https://raw.githubusercontent.com/2vin/foreground-extraction/master/results/segmentation.jpg)
+
+Extracted face mask
+![alt text](https://raw.githubusercontent.com/2vin/foreground-extraction/master/results/facemask.jpg)
+
+Extracted torso mask
+![alt text](https://raw.githubusercontent.com/2vin/foreground-extraction/master/results/bodymask.jpg)
+
+Combined mask 
+![alt text](https://raw.githubusercontent.com/2vin/foreground-extraction/master/results/person.jpg)
