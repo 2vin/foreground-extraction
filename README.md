@@ -17,20 +17,20 @@ Run the following command in terminal:
 
 # Results
 
-Test image    
+Test image      
 ![alt text](https://raw.githubusercontent.com/2vin/person-extraction/master/results/test.jpeg)
 
-After superpixelization 
+After superpixelization   
 ![alt text](https://raw.githubusercontent.com/2vin/person-extraction/master/results/pixels.jpg)
 
-After kmeans segmentation
-![alt text](https://raw.githubusercontent.com/2vin/person-extraction/master/results/segmentation.jpg)
+After kmeans segmentation   
+![alt text](https://raw.githubusercontent.com/2vin/person-extraction/master/results/segmented.jpg)
 
-Extracted face mask
+Extracted face mask   
 ![alt text](https://raw.githubusercontent.com/2vin/person-extraction/master/results/facemask.jpg)
 
-Extracted torso mask
+Extracted torso mask    
 ![alt text](https://raw.githubusercontent.com/2vin/person-extraction/master/results/bodymask.jpg)
 
-Combined mask 
+Combined mask     
 ![alt text](https://raw.githubusercontent.com/2vin/person-extraction/master/results/person.jpg)
