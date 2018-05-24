@@ -8,11 +8,11 @@ Run the following command in terminal:
 `./compile.sh`
 
 # Usage
-./main <image_filename> <number_of_superpixels> <scale\*100> <segmentation_clusters>     
+./main <image_filename> <number_of_superpixels> <scale\*100> <segmentation_clusters>       
 (where, <scale\*100> means the scale factor to resize image multiplied by 100)    
 
 # Example
-./main ./results/test.jpeg 100 50 5
+./main ./results/test.jpeg 100 50 5     
 (Note: Substitute "/home/2vin/myphoto.jpg" by path of an existing portrait image)     
 
 # Results
